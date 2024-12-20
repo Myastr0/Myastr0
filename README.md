@@ -11,7 +11,13 @@
 - 👨‍💻 Senior Software Engineer passionate about Developer Experience (DX/DevEx).
 - 📍 Toulouse, France 🇫🇷 - _Working remotely 🌍_
 - 💻 Owner of [**DX Community.io**](https://www.dx-community.io). A community of passionate developers about Developer Experience. It's free to join !
-- 📫 Reach me on bluesky at [@myastro.bsky.social](https://bsky.app/profile/myastro.bsky.social)
+- 📫 Reach me on Bluesky at [@myastro.bsky.social](https://bsky.app/profile/myastro.bsky.social)
+
+### 🏢 Work experiences
+
+- **Senior Software Engineer** - _DevEx Team_ @ [**Shine**](https://www.shine.fr) _(2022 - Present)_
+- **Lead DevOps & Backend Engineer** @ [**Bleexo**](https://www.silae.fr/bleexo-plateforme-experience-collaborateur-dediee-aux-pme-et-eti/) _(2019 - 2022)_
+
 
 
 ### 🖥 Skills
