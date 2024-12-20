@@ -8,7 +8,8 @@
 
 [![Github](https://img.shields.io/github/followers/Myastr0?label=Follow&style=social)](https://github.com/Myastr0)
 
-- 👨‍💻Senior Software Engineer passionate about Developer Experience (DX/DevEx).
+- 👨‍💻 Senior Software Engineer passionate about Developer Experience (DX/DevEx).
+- 📍 Toulouse, France 🇫🇷 - _Working remotely 🌍_
 - 💻 Owner of [**DX Community.io**](https://www.dx-community.io). A community of passionate developers about Developer Experience. It's free to join !
 - 📫 Reach me on bluesky at [@myastro.bsky.social](https://bsky.app/profile/myastro.bsky.social)
 
