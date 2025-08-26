@@ -11,13 +11,13 @@
 - 👨‍💻 Senior Software Engineer passionate about Developer Experience (DX/DevEx).
 - 📍 Toulouse, France 🇫🇷 - _Working remotely 🌍_
 - 💻 Owner of [**DX Community.io**](https://www.dx-community.io). A community of passionate developers about Developer Experience. It's free to join !
+- 🫡 Co-founder of [**SuperDuty**](https://www.superduty.app). A platform to help you simplify team rotation and manage your team's schedule.
 - 📫 Reach me on Bluesky at [@myastro.bsky.social](https://bsky.app/profile/myastro.bsky.social)
 
 ### 🏢 Work experiences
 
 - **Senior Software Engineer** - _DevEx Team_ @ [**Shine**](https://www.shine.fr) _(2022 - Present)_
 - **Lead DevOps & Backend Engineer** @ [**Bleexo**](https://www.silae.fr/bleexo-plateforme-experience-collaborateur-dediee-aux-pme-et-eti/) _(2019 - 2022)_
-
 
 
 ### 🖥 Skills
@@ -28,6 +28,7 @@
 - CI/CD (GitHub Actions, Gitlab CI, CircleCI)
 - Docker/Docker Compose
 - Terraform
+
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&color=353535) ![Bootstrap](https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=Github-Actions&color=353535) ![Bootstrap](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI&color=353535) ![Bootstrap](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=GitLab-CI&color=353535)
