@@ -10,8 +10,8 @@
 
 - 👨‍💻 Senior Software Engineer passionate about Developer Experience (DX/DevEx).
 - 📍 Toulouse, France 🇫🇷 - _Working remotely 🌍_
-- 💻 Owner of [**DX Community.io**](https://www.dx-community.io). A community of passionate developers about Developer Experience. It's free to join !
 - 🫡 Co-founder of [**SuperDuty**](https://www.superduty.app). A platform to help you simplify team rotation and manage your team's schedule.
+- 📸 Founder of [**Oqus**](https://www.oqus.fr). A all-in-one platform for professional photographers.
 - 📫 Reach me on Bluesky at [@myastro.bsky.social](https://bsky.app/profile/myastro.bsky.social)
 
 ### 🏢 Work experiences
